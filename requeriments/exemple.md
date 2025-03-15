@@ -14,7 +14,7 @@ del sistema hi seran en una BDD Relacional. Caldrà proporcionar un conjunt de
 d'arxius en format SQL per definir les taules i restriccions de la Base de Dades.
 ### Relations:
 _Sense completar (pending)_
-### Comments: 
+### Comments:  
 Caldrà definir en el disseny les versions especifiques a utilitzar i la plataforma a
 on s'executarà. També hi serà necessari definir un roadmap de manteniment
 amb un mínim de 6 anys. En el cas de que el EOL no pugui garantir aquest

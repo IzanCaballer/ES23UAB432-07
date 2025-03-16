@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-7-01
+### Type/Category:
+NO Funcional / Decisions de Disseny
+### Version:
+1.0
+### Title:
+Area autoritzada
+### Description: 
+La plataforma QueMenges està pensada, en una fase inicial, a ser usada a l'àrea metropolitana de Barcelona.
+### Relations:
+Sense relacions
+### Comments: 
+Sense comentaris
+
+---

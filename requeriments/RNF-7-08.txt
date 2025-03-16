@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-7-08
+### Type/Category:
+NO Funcional / Requisit d'interficie externa
+### Version:
+1.0
+### Title:
+Protocol d'encriptació
+### Description: 
+Es farà servir el protocol OpenVPN per a encriptació de dades.
+### Relations:
+Sense relacions
+### Comments: 
+Sense comentaris
+
+---

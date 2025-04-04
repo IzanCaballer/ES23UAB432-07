@@ -2,3 +2,4 @@
 Projecte - QUEMENGES?
 
 Sprint1 - 13/03/2025 - 20/03/2025
+Sprint2 - 24/03/2025 - 10/04/2025

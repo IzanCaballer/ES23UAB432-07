@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-7-07
+### Type/Category:
+NO Funcional / Requisit de rendiment: estàtic
+### Version:
+1.0
+### Title:
+Maxim d'usuaris
+### Description: 
+En una fase inicial l' aplicació hauria de suportar un màxim de 1000 usuaris connectats alhora.
+### Relations:
+Sense relacions
+### Comments: 
+Sense comentaris
+
+---

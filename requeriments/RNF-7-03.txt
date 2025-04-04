@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-7-03
+### Type/Category:
+NO Funcional / Restriccio de Disseny: Limitacions hardware
+### Version:
+1.0
+### Title:
+Versions
+### Description: 
+L'aplicació tindrà dues versions: web i mòbil.
+### Relations:
+Sense relacions
+### Comments: 
+Sense comentaris
+
+---

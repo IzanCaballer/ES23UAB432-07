@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-7-05
+### Type/Category:
+NO Funcional / Decisio de disseny
+### Version:
+1.0
+### Title:
+Tipus de lletra
+### Description: 
+En l' aplicació es farà servir com a tipus de lletra Calibri tant per a encapçalats com per a la resta dels continguts.
+### Relations:
+Sense relacions
+### Comments: 
+Sense comentaris
+
+---

@@ -19,5 +19,6 @@ Caldrà definir en el disseny les versions especifiques a utilitzar i la platafo
 on s'executarà. També hi serà necessari definir un roadmap de manteniment
 amb un mínim de 6 anys. En el cas de que el EOL no pugui garantir aquest
 període caldrà dissenyar un procés de migració.
+
 ---
 

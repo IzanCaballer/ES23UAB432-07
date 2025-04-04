@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-7-09
+### Type/Category:
+NO Funcional / Objectiu de disseny
+### Version:
+1.0
+### Title:
+Amigable i responsive
+### Description: 
+La interfície haurà de ser amigable i responsive.
+### Relations:
+Sense relacions
+### Comments: 
+Sense comentaris
+
+---

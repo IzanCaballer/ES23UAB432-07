@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-7-06
+### Type/Category:
+NO Funcional / Decisio de disseny
+### Version:
+1.0
+### Title:
+Logo corporatiu
+### Description: 
+El color corporatiu serà el taronja i el logo de l' aplicació haurà d' aparèixer en totes i cadascuna de les pantalles.
+### Relations:
+Sense relacions
+### Comments: 
+Sense comentaris
+
+---

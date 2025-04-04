@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-5-01
+### Type/Category:
+NO Funcional/Decisió de disseny
+### Version:
+1.0
+### Title:
+Ordenar per valoració
+### Description: 
+El programa mostrarà primer els cuiners que tinguin millor valoració assignada pels clients
+### Relations:
+RF-5-01
+### Comments:  
+S'haurà de fer una mitjana entre totes les valoracions de les comandes segons la puntualitat del cuiner i l'estat del menjar
+
+---

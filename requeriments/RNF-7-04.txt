@@ -1,0 +1,18 @@
+# Requirement
+
+### ID: 
+RNF-7-04
+### Type/Category:
+NO Funcional / Restriccio de Disseny: Limitacions hardware
+### Version:
+1.0
+### Title:
+Sistema operatiu
+### Description: 
+L'aplicació haurà de funcionar tant en mòbils Android com en aquells amb sistema operatiu iOS.
+### Relations:
+Sense relacions
+### Comments: 
+Sense comentaris
+
+---

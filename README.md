@@ -1,2 +1,4 @@
 # ES23UAB432-07
 Projecte - QUEMENGES?
+
+Sprint1 - 13/03/2025 - 20/03/2025
